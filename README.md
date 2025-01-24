@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for solving complex problems and
 
 - 🔭 Currently working on exciting projects at EGSYS
 - 🌱 Learning more about cloud computing and DevOps
-- 💬 Ask me about anything related to JavaScript, Python, or web development
+- 💬 Ask me about anything related to JavaScript, Python, Kotlin, or web development
 - 📫 How to reach me: [jordan.duarte.pr@gmail.com](mailto:jordan.duarte.pr@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new trails
 
