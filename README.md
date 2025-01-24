@@ -7,7 +7,7 @@ I'm a passionate software developer with a love for solving complex problems and
 - 🔭 Currently working on exciting projects at EGSYS
 - 🌱 Learning more about cloud computing and DevOps
 - 💬 Ask me about anything related to JavaScript, Python, or web development
-- 📫 How to reach me: [jordan@example.com](mailto:jordan@example.com)
+- 📫 How to reach me: [jordan.duarte.pr@gmail.com](mailto:jordan.duarte.pr@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new trails
 
 ## Technologies & Tools
@@ -25,5 +25,5 @@ I'm a passionate software developer with a love for solving complex problems and
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-duarte/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-duarte-83791374)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jordan_duarte)
