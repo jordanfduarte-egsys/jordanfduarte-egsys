@@ -22,7 +22,7 @@ I'm a passionate software developer with a love for solving complex problems and
 
 ## GitHub Stats
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanfduarte-egsys&show_icons=true&theme=radical)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanfduarte-egsys&show_icons=true&theme=radical&count_private=true)
 
 ## Connect with Me
 
